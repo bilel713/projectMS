@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b4cf90-f1b1-45c6-b5c6-8d002665d936" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/service-express/projetBilel/data/societe.json" beforeDir="false" afterPath="$PROJECT_DIR$/service-express/projetBilel/data/societe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-express/projetBilel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/service-express/projetBilel/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-express/projetBilel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/service-express/projetBilel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-express/projetBilel/routes/societe.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-express/projetBilel/routes/societe.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/service-express/projetBilel" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K3pzxK2Cg4UYVRuASI3gFZFcK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/PC-Jnina/Downloads/ms/Service-gateway"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b4cf90-f1b1-45c6-b5c6-8d002665d936" name="Changes" comment="" />
+      <created>1673213386498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673213386498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
